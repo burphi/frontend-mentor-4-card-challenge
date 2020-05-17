@@ -1,0 +1,75 @@
+body {
+  background-color: #fafafa;
+  font-family: 'Poppins', sans-serif;
+  font-size: 15px;
+}
+
+h1 {
+  color: #4c4e61;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+}
+
+h2 {
+  color: #4c4e61;
+  font-family: "Poppins", sans-serif;
+  font-weight: 200;
+  margin-bottom: 0;
+}
+
+h5 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-size: 1.5rem;
+}
+
+img {
+  padding: 1.3rem;
+}
+
+p {
+  color: #a3a5ae;
+  font-weight: 200;
+  padding: 15px;
+}
+
+.card {
+  margin: 15px;
+  /* width: 18rem; */
+}
+
+.card-bottom {
+  /* padding: 15px; */
+  text-align: right;
+}
+
+.col-lg-4 {
+  padding: 0;
+}
+
+.container {
+  /* margin-left: 1%;
+  margin-right: 1%; */
+}
+
+.heading {
+  margin: 80px 32% 50px;
+  text-align: center;
+}
+
+.supervisor {
+  border-top: solid #45d3d3;
+}
+
+.team-builder {
+  border-top: solid #ea5353;
+}
+
+.karma {
+  border-top: solid #fcaf4a;
+  margin-top: 25px;
+}
+
+.calculator {
+  border-top: solid #549ef2;
+}
